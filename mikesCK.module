@@ -10,7 +10,7 @@ function mikesCK_ckeditor_plugin() {
   return array(
     'mikesCK' => array(
       'name' => 'mikesCK',
-      'desc' => 'Bitcookie Image Uploader',
+      'desc' => 'Mikes Button',
       'path' => $module_path . '/static/',
       'buttons' => array(
         'mikesCK' => array(
