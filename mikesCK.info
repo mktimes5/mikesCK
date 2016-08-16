@@ -1,0 +1,4 @@
+name = Mikes CK Plugin
+description = Creates 
+core = 7.x
+dependencies[] = ckeditor:ckeditor
