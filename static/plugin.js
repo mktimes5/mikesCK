@@ -7,7 +7,7 @@ CKEDITOR.plugins.add( 'mikesCK',
 				exec : function( editor )
 			{    
 				
-				editor.insertHtml( '<p style="color:blue;">mikesCK</p>' );
+				editor.insertHtml( '<p>' . 'mikesCK' . '</p>' , 'unfiltered_html' );
 			}
 		});
 
