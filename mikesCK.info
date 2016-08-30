@@ -1,4 +1,4 @@
-name = Mikes CK Plugin
+name = Mikes CK Plugin dev
 description = Creates a ckeditor button 
 core = 7.x
 dependencies[] = ckeditor:ckeditor
